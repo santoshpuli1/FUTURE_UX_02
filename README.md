@@ -98,6 +98,7 @@ High-Fidelity UI Design
 Interactive Prototype
 Responsive Layout Design
 GitHub Repository Submission
+
 Figma Prototype Link
 
 https://www.figma.com/make/w0T2I7CC6l0aEXJfrvpsMZ/FUTURE_UX_02?t=2VKvhjwZP8chWBdX-1&preview-route=%2Fbookings
